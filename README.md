@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @AmrutSH
-- 👀 I’m interested in python and sql database
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @AmrutH
 - 📫 How to reach me -mobile no :9036723895 gmail :amruthanamshet@gmail.com
 
 <!---
